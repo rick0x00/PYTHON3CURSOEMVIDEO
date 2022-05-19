@@ -1,0 +1,15 @@
+algo = input("Digite Algo: ")
+
+print("Segue abaixo informações sobre o que você digitou")
+
+print("alfa-numérico: {}".format(algo.isalnum()))
+print(f"alfabético: {algo.isalpha()}")
+print(f"ASCII: {algo.isascii()}")
+print(f"Decimal: {algo.isdecimal()}")
+print(f"Digito string: {algo.isdigit()}")
+print(f"Identificador: {algo.isidentifier()}")
+print(f"lowercase: {algo.islower()}")
+print(f"Numerico: {algo.isnumeric()}")
+print(f"Writespace: {algo.isspace()}")
+print(f"Title cased: {algo.istitle()}")
+print(f"uppercase: {algo.isupper()}")
