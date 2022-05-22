@@ -4,4 +4,4 @@ print(f"{'DESAFIO 013':=^20}")
 
 salario = float(input("Informe seu salário: "))
 
-print(f'O salário com aumento de 15% será de: R$: {salario * 1.15}')
+print(f'O salário com aumento de 15% será de: R$: {(salario * 1.15):.2f}')
