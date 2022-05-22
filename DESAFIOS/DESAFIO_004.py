@@ -1,3 +1,6 @@
+print(f"{'DESAFIO 004':=^20}")
+print("Dissecando uma Variável")
+
 algo = input("Digite Algo: ")
 print("Segue abaixo informações sobre o que você digitou")
 

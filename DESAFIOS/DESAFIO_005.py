@@ -1,6 +1,7 @@
 # Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 print(f"{'DESAFIO 005':=^20}")
+print("Predecessor e Sucessor")
 
 n = int(input("Digite um Numero: "))
 

@@ -1,6 +1,7 @@
 # Cria um algoritmo que leia um número e mostre o seu dobro, triplo a raiz quadrada.
 
 print(f"{'DESAFIO 006':=^20}")
+print("Dobro, Triplo, Raiz Quadrada")
 
 n = int(input("Digite um número: "))
 
