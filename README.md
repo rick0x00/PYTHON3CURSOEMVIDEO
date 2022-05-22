@@ -32,6 +32,12 @@ Estou aprendendo Python 3 com o Curso em Video - [Gustavo Guanabara](https://git
 
 [DESAFIO 013 - Reajuste Salarial](./DESAFIOS/DESAFIO_013.py)
 
-[DESAFIO 014 - ](./DESAFIOS/DESAFIO_014.py)
+[DESAFIO 014 - Conversor de Temperaturas](./DESAFIOS/DESAFIO_014.py)
+
+[DESAFIO 015 - ](./DESAFIOS/DESAFIO_015.py)
+
+[DESAFIO 016 - ](./DESAFIOS/DESAFIO_016.py)
+
+[DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
 
