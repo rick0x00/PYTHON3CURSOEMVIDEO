@@ -23,3 +23,6 @@ print(type(total))
 # tetes de tipo
 txt = "CompanyX"
 print(txt.isalpha())
+
+
+# "PÁSSIVEL DE RESOLUÇÃO DOS DESAFIOS: 003, 004"
