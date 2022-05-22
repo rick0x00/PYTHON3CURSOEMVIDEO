@@ -1,4 +1,4 @@
-# Escrava um programa que pergunta a quantidada de Km parcorridos por um carro alugado e a quantidada da dias palos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0.15 por km rodado.
+# Escrava um programa que pergunta a quantidade de Km percorridos por um carro alugado e a quantidade da dias palos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0.15 por km rodado.
 
 print(f"{'DESAFIO 015':=^20}\n"+"Aluguel de Carros")
 

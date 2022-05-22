@@ -20,4 +20,4 @@
 
 # a ordem de execução dos itens 3 e 4, assim como dos itens 5 e 6 serão executados pela sequencia de posição, "quem aparecer primeiro"
 
-# "PÁSSIVEL DE RESOLUÇÃO DOS DESAFIOS: 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015"
+# "PASSÍVEL DE RESOLUÇÃO DOS DESAFIOS: 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015"

@@ -14,7 +14,7 @@ n2 = int(input("Digite outro valor: "))
 total = n1 + n2
 print('A soma entre {} e {} vale {}.' .format(n1, n2, total))
 
-# informaçõies complementares, tipo das variáveis
+# informações complementares, tipo das variáveis
 print(type(n1))
 print(type(n2))
 print(type(total))
@@ -25,4 +25,4 @@ txt = "CompanyX"
 print(txt.isalpha())
 
 
-# "PÁSSIVEL DE RESOLUÇÃO DOS DESAFIOS: 003, 004"
+# "PASSÍVEL DE RESOLUÇÃO DOS DESAFIOS: 003, 004"
