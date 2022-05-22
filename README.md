@@ -15,7 +15,7 @@
 
 [AULA 08 - Utilizando Módulos](./AULAS/AULA_08.py)
 
-[AULA 00 - Utilizando Módulos](./AULAS/AULA_00.py)
+[AULA 00 - ](./AULAS/AULA_00.py)
 
 ### DESAFIOS/EXERCÍCIOS
 
@@ -48,8 +48,6 @@
 [DESAFIO 014 - Conversor de Temperaturas](./DESAFIOS/DESAFIO_014.py)
 
 [DESAFIO 015 - Aluguel de Carros](./DESAFIOS/DESAFIO_015.py)
-
-[DESAFIO 016 - ](./DESAFIOS/DESAFIO_016.py)
 
 [DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
