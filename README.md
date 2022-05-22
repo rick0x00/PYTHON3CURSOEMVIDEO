@@ -1,10 +1,23 @@
-Estou aprendendo Python 3 com o Curso em Video - [Gustavo Guanabara](https://github.com/gustavoguanabara)
+# Estou aprendendo Python 3 com o Curso em Video - [Gustavo Guanabara](https://github.com/gustavoguanabara)
 
 [link do conteúdo no site oficial](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 
 [link da playlist no YouTube](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
-### DESAFIOS
+
+### AULAS/FASES
+
+[AULA 04 - Primeiros Comandos em Python](./AULAS/AULA_04.py)
+
+[AULA 06 - Primitives Types and Data Output](./AULAS/AULA_06.py)
+
+[AULA 07 - Operadores Aritméticos](./AULAS/AULA_07.py)
+
+[AULA 08 - Utilizando Módulos](./AULAS/AULA_08.py)
+
+[AULA 00 - Utilizando Módulos](./AULAS/AULA_00.py)
+
+### DESAFIOS/EXERCÍCIOS
 
 [DESAFIO 001 - Deixando Tudo Pronto](./DESAFIOS/DESAFIO_001.py)
 
