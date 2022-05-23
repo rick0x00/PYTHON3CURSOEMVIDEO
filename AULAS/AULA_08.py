@@ -21,3 +21,6 @@ num = int(input("Digite um Numero: "))
 raiz = math.sqrt(num)
 
 print(f"A raiz de {num} é igual a {(raiz):.2f}")
+
+
+# "PASSÍVEL DE RESOLUÇÃO DOS DESAFIOS: 016, 017, 018, 019, 020, 021"
