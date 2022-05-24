@@ -3,8 +3,9 @@
 print(f"{'DESAFIO 16':=^20}")
 print("Quebrando um Número")
 
-import math
+from math import trunc
 
 n = float(input("Informe um número: "))
 
-print(f"A porção inteira do numero é: {math.floor(n)}")
+print(f"A porção inteira do numero é: {int(n)}")
+print(f"A porção inteira do numero é: {trunc(n)}")
