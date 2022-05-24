@@ -51,7 +51,7 @@
 
 [DESAFIO 016 - Quebrando um Número](./DESAFIOS/DESAFIO_016.py)
 
-[DESAFIO 017 - ](./DESAFIOS/DESAFIO_017.py)
+[DESAFIO 017 - Catetos e Hipotenusa](./DESAFIOS/DESAFIO_017.py)
 
 [DESAFIO 018 - ](./DESAFIOS/DESAFIO_018.py)
 

@@ -8,4 +8,4 @@ from math import trunc
 n = float(input("Informe um número: "))
 
 print(f"A porção inteira do numero é: {int(n)}")
-print(f"A porção inteira do numero é: {trunc(n)}")
+print(f"A porção inteira do numero é: {trunc(n)}")  
