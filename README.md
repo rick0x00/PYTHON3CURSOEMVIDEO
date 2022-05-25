@@ -53,7 +53,7 @@
 
 [DESAFIO 017 - Catetos e Hipotenusa](./DESAFIOS/DESAFIO_017.py)
 
-[DESAFIO 018 - ](./DESAFIOS/DESAFIO_018.py)
+[DESAFIO 018 - Seno, Cosseno e Tangente](./DESAFIOS/DESAFIO_018.py)
 
 [DESAFIO 019 - ](./DESAFIOS/DESAFIO_019.py)
 
