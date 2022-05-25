@@ -12,4 +12,4 @@ aluno3 = str(input("Terceiro Aluno: "))
 aluno4 = str(input("Quarto Aluno: "))
 
 
-print(f"O aluno Escolhido foi {choice([aluno1, aluno2, aluno2, aluno4])}!")
+print(f"O aluno Escolhido foi {choice([aluno1, aluno2, aluno3, aluno4])}!")
