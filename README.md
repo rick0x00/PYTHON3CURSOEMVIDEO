@@ -55,7 +55,7 @@
 
 [DESAFIO 018 - Seno, Cosseno e Tangente](./DESAFIOS/DESAFIO_018.py)
 
-[DESAFIO 019 - ](./DESAFIOS/DESAFIO_019.py)
+[DESAFIO 019 - Sorteando um item na lista](./DESAFIOS/DESAFIO_019.py)
 
 [DESAFIO 020 - ](./DESAFIOS/DESAFIO_020.py)
 
