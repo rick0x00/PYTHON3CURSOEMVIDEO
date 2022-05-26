@@ -57,7 +57,7 @@
 
 [DESAFIO 019 - Sorteando um item na lista](./DESAFIOS/DESAFIO_019.py)
 
-[DESAFIO 020 - ](./DESAFIOS/DESAFIO_020.py)
+[DESAFIO 020 - Sorteando uma ordem na lista](./DESAFIOS/DESAFIO_020.py)
 
 [DESAFIO 021 - ](./DESAFIOS/DESAFIO_021.py)
 
