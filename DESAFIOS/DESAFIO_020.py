@@ -13,6 +13,6 @@ aluno4 = str(input("Quarto Aluno: "))
 
 lista = [aluno1, aluno2, aluno3, aluno4]
 
-rshuffle(lista)
+shuffle(lista)
 
 print(f"A sequencia de Apresentação será: {lista}!")
