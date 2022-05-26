@@ -59,7 +59,7 @@
 
 [DESAFIO 020 - Sorteando uma ordem na lista](./DESAFIOS/DESAFIO_020.py)
 
-[DESAFIO 021 - ](./DESAFIOS/DESAFIO_021.py)
+[DESAFIO 021 - Tocando um MP3](./DESAFIOS/DESAFIO_021.py)
 
 [DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
