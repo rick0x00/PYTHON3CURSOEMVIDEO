@@ -84,9 +84,11 @@ print(f"Tornando pontualmente toda a String '{fraseruim}' sem espaços desnecess
 
 # divisão
 print(f"A frase '{frase}' pode ser ''esplitada'' {frase.split()}")
+print(f"A frase '{frase}' tem primeira palavra '{frase.split()[0]}'")
+# Usando [] eu determino o índice que quero usar da array criada
 
 # junção
 print(f"A frase '{frase}' pode ser ''juntada'' {''.join(frase.split())}")
 
 
-
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 022, 023, 024, 025, 026, 027"
