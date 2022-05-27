@@ -15,6 +15,8 @@
 
 [AULA 08 - Utilizando Módulos](./AULAS/AULA_08.py)
 
+[AULA 09 - Manipulação de Texto](./AULAS/AULA_09.py)
+
 [AULA 00 - ](./AULAS/AULA_00.py)
 
 ### DESAFIOS/EXERCÍCIOS
