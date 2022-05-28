@@ -92,4 +92,3 @@ print(f"A frase '{frase}' pode ser ''juntada'' {''.join(frase.split())}")
 
 
 # "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 022, 023, 024, 025, 026, 027"
-

@@ -65,7 +65,7 @@
 
 [DESAFIO 022 - Analisador de Textos](./DESAFIOS/DESAFIO_022.py)
 
-[DESAFIO 023 - ](./DESAFIOS/DESAFIO_023.py)
+[DESAFIO 023 - Separando dígitos de um número](./DESAFIOS/DESAFIO_023.py)
 
 [DESAFIO 024 - ](./DESAFIOS/DESAFIO_024.py)
 
