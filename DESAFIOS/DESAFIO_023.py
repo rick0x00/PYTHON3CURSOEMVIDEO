@@ -1,4 +1,4 @@
-# Faça um programa que leia um número de 0 a 9999 & mostre na tela cada um dos dígitos separados.
+# Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 # Ex: Digite um número: 1834
 # unidade: 4
 # dezena: 3
@@ -24,6 +24,3 @@ print(f"Unidade: {(((num % 1000) % 100) % 10) // 1}")
 print(f"Dezena: {((num % 1000) % 100) // 10}")
 print(f"Centena: {(num % 1000) // 100}")
 print(f"Milhar: {num // 1000}")
-
-Para ver os demais desafios acesse o meu github https://github.com/rick0x00/PYTHON3MUNDO1CURSOEMVIDEO
-

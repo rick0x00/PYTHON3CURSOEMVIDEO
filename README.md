@@ -67,7 +67,7 @@
 
 [DESAFIO 023 - Separando dígitos de um número](./DESAFIOS/DESAFIO_023.py)
 
-[DESAFIO 024 - ](./DESAFIOS/DESAFIO_024.py)
+[DESAFIO 024 - Verificando as primeiras letras de um texto](./DESAFIOS/DESAFIO_024.py)
 
 [DESAFIO 025 - ](./DESAFIOS/DESAFIO_025.py)
 
