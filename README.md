@@ -71,7 +71,7 @@
 
 [DESAFIO 025 - Procurando uma string dentro de outra](./DESAFIOS/DESAFIO_025.py)
 
-[DESAFIO 026 - ](./DESAFIOS/DESAFIO_026.py)
+[DESAFIO 026 - Primeira e última ocorrência de uma string](./DESAFIOS/DESAFIO_026.py)
 
 [DESAFIO 027 - ](./DESAFIOS/DESAFIO_027.py)
 
