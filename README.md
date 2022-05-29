@@ -73,7 +73,7 @@
 
 [DESAFIO 026 - Primeira e última ocorrência de uma string](./DESAFIOS/DESAFIO_026.py)
 
-[DESAFIO 027 - ](./DESAFIOS/DESAFIO_027.py)
+[DESAFIO 027 - Primeiro e último nome de uma pessoa](./DESAFIOS/DESAFIO_027.py)
 
 [DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
