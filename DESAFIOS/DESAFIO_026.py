@@ -9,7 +9,7 @@ print(f'{" DESAFIO"f" {N_desafio} ":=^{len(nome_desafio)}}')
 print(nome_desafio)
 print(f'{"":=^{len(nome_desafio)}}')
 
-frase = str(input("Informe uma Frase: "))
+frase = str(input("Informe uma Frase: ")).strip()
 
 print(f'A letra "A" Aparece {frase.upper().count("A")} vezes na frase.')
 print(f'A Primeira leta "A" Aparece na posição {frase.upper().find("A") + 1}')
