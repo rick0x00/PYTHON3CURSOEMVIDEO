@@ -69,7 +69,7 @@
 
 [DESAFIO 024 - Verificando as primeiras letras de um texto](./DESAFIOS/DESAFIO_024.py)
 
-[DESAFIO 025 - ](./DESAFIOS/DESAFIO_025.py)
+[DESAFIO 025 - Procurando uma string dentro de outra](./DESAFIOS/DESAFIO_025.py)
 
 [DESAFIO 026 - ](./DESAFIOS/DESAFIO_026.py)
 
