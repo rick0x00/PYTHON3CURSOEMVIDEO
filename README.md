@@ -17,6 +17,8 @@
 
 [AULA 09 - Manipulação de Texto](./AULAS/AULA_09.py)
 
+[AULA 10 - Condições](./AULAS/AULA_10.py)
+
 [AULA 00 - ](./AULAS/AULA_00.py)
 
 ### DESAFIOS/EXERCÍCIOS
