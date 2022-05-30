@@ -13,7 +13,7 @@ else:
 print("carro novo" if tempo <= 3 else "carro velho")
 print("fim")
 
-# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 028"
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 028, 029, 030, 031, 032, 033, 034, 035"
 
 # desafio 028 
 # Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 € 5 e pesa para o usuário tentar descobrir qual foi o número escolhido pelo computador.
