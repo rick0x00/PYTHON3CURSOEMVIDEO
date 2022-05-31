@@ -77,7 +77,7 @@
 
 [DESAFIO 027 - Primeiro e último nome de uma pessoa](./DESAFIOS/DESAFIO_027.py)
 
-[DESAFIO 028 - ](./DESAFIOS/DESAFIO_028.py)
+[DESAFIO 028 - Jogo da Adivinhação v.1.0](./DESAFIOS/DESAFIO_028.py)
 
 [DESAFIO 029 - ](./DESAFIOS/DESAFIO_029.py)
 

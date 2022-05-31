@@ -16,7 +16,7 @@ print("fim")
 # "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 028, 029, 030, 031, 032, 033, 034, 035"
 
 # desafio 028 
-# Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 € 5 e pesa para o usuário tentar descobrir qual foi o número escolhido pelo computador.
+# Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.
 # O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
 # desafio 029
