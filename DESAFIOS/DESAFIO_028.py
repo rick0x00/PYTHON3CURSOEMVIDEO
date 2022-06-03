@@ -23,4 +23,3 @@ if number_user == number_random:
     print("parabéns, você acertou!")
 else:
     print("Não foi dessa vez, tende novamente!")
-    
