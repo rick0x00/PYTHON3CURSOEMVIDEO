@@ -1,0 +1,2 @@
+# cores no terminal
+

@@ -19,6 +19,8 @@
 
 [AULA 10 - Condições](./AULAS/AULA_10.py)
 
+[AULA 11 - Cores no Terminal](./AULAS/AULA_11.py)
+
 [AULA 00 - ](./AULAS/AULA_00.py)
 
 ### DESAFIOS/EXERCÍCIOS
