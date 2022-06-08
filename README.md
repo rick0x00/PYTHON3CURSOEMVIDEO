@@ -81,7 +81,7 @@
 
 [DESAFIO 028 - Jogo da Adivinhação v.1.0](./DESAFIOS/DESAFIO_028.py)
 
-[DESAFIO 029 - ](./DESAFIOS/DESAFIO_029.py)
+[DESAFIO 029 - Radar eletrônico](./DESAFIOS/DESAFIO_029.py)
 
 [DESAFIO 030 - ](./DESAFIOS/DESAFIO_030.py)
 
