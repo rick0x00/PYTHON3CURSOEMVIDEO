@@ -93,6 +93,8 @@
 
 [DESAFIO 034 - Aumentos múltiplos](./DESAFIOS/DESAFIO_034.py)
 
+[DESAFIO 035 - Analisando Triângulo v1.0](./DESAFIOS/DESAFIO_035.py)] 
+
 [DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
 
