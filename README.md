@@ -91,7 +91,7 @@
 
 [DESAFIO 033 - Maior e menor valores](./DESAFIOS/DESAFIO_033.py)
 
-[DESAFIO 034 - ](./DESAFIOS/DESAFIO_034.py)
+[DESAFIO 034 - Aumentos múltiplos](./DESAFIOS/DESAFIO_034.py)
 
 [DESAFIO 000 - ](./DESAFIOS/DESAFIO_000.py)
 
