@@ -16,8 +16,8 @@ print('-' * int(len(msg_desafio)))
 
 velocidade_carro = float(input("Informe a velocidade do carro! "))
 
-if velocidade_carro > 80 :
+if velocidade_carro > 80:
     print("Você foi multado por ultrapassar a velocidade limite de 80Km/h")
     print(f"Você deve pagar uma multa de R${(velocidade_carro - 80)*7 :.2f}")
-else :
+else:
     print("Você não ultrapassou a velocidade limite de 80Km/h")
