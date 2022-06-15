@@ -1,3 +1,4 @@
+# AULA 06
 # primitives types
 
 # inteiros
@@ -25,4 +26,10 @@ txt = "CompanyX"
 print(txt.isalpha())
 
 
-# "PASSÍVEL DE RESOLUÇÃO DOS DESAFIOS: 003, 004"
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 003, 004"
+
+# DESAFIO 003 - Somando Dois Números
+# Crie um programa que leia dois números e mostre a soma entre eles.
+
+# DESAFIO 004 - Dissecando uma Variável
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.

@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 011
 # Faça um programa que leia a largura e a altura de uma parede em metros, calcula a Sua área R a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
 
 print(f"{'DESAFIO 011':=^20}")

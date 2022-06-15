@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 015
 # Escrava um programa que pergunta a quantidade de Km percorridos por um carro alugado e a quantidade da dias palos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0.15 por km rodado.
 
 print(f"{'DESAFIO 015':=^20}\n"+"Aluguel de Carros")

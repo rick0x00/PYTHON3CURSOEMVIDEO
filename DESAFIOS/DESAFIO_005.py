@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 005
 # Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 print(f"{'DESAFIO 005':=^20}")

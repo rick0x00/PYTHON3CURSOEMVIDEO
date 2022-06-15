@@ -1,8 +1,6 @@
-# desafio 031 
+# Considerando os Conhecimentos da Aula 10
+# Desafio 031 
 # Desenvolva um programa que pergunta a distância de uma viagem am Km. Calcule o preso da passagem.cobrando R$0.50 por Km para viagens de até 200Km a R$0.45 para viagens mais longas.
-
-from dis import dis
-
 
 N_desafio = "031"
 nome_desafio = "Custo da Viagem"

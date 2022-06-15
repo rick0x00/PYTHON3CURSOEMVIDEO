@@ -92,3 +92,36 @@ print(f"A frase '{frase}' pode ser ''juntada'' {''.join(frase.split())}")
 
 
 # "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 022, 023, 024, 025, 026, 027"
+
+# DESAFIO 022
+# Crie um programa que leia o nome completo de uma pessoa e mostre:
+# O nome com todas as letras maiúsculas
+# O nome com todas minúsculas.
+# Quantas letras ao todo (sem considerar Espaços).
+# Quantas letras tem o primeiro nome.
+
+# DESAFIO 023
+# Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+# Ex: Digite um número: 1834
+# unidade: 4
+# dezena: 3
+# centena: 8
+# milhar: 1
+
+# DESAFIO 024
+# Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+# DESAFIO 025
+# Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+# DESAFIO 026
+# Faça um programa que leia uma frase pelo teclado e mostre:
+# Quantas vezes aparece a letra "A".
+# Em que posição ela aparece a primeira.
+# Em que posição ela aparece a última vez.
+
+# DESAFIO 027
+# Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro a o último nome separadamente.
+# Ex: Ana Maria de Souza 
+# primeiro = Ana 
+# último=Souza

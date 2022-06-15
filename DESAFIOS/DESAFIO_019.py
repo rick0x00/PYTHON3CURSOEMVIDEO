@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 08
+# DESAFIO 019
 # Um professor quer sortear um dos seus alunos para apagar o quadro. Faça um Programa que ajude ele, lendo o nome deles, e escrevendo o nome do escolhido.
 
 print(f"{'DESAFIO 019':=^20}")

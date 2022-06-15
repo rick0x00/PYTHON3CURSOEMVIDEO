@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 10
+# Desafio 035
 # Desenvolva um programa que leia o comprimento de três ratas a diga ao usuário se elas podem ou não formar um triângulo.
 
 N_desafio = "035"

@@ -1,4 +1,5 @@
-# desafio 030
+# Considerando os Conhecimentos da Aula 10
+# Desafio 030
 # Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou IMPAR.
 
 N_desafio = "030"

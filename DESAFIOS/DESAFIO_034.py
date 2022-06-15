@@ -1,4 +1,5 @@
-# desafio 034 
+# Considerando os Conhecimentos da Aula 10
+# Desafio 034 
 # Escreva um programa que pergunte o salário de um Funcionário e calcule o valor do seu aumento.
 # Para salários superiores a RS1.250.00.calcule um aumento de 10%.
 # Para os inferiores ou iguais, o aumento é de 15%.

@@ -1,3 +1,7 @@
+# Considerando os Conhecimentos da Aula 06
+# DESAFIO 004 - Dissecando uma Variável
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
 print(f"{'DESAFIO 004':=^20}")
 print("Dissecando uma Variável")
 

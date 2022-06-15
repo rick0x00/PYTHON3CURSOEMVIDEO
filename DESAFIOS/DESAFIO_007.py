@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 007
 # Desenvolva um programa que leia as duas notas de um aluno, calcule a mostre a sua média.
 
 print(f"{'DESAFIO 007':=^20}")

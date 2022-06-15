@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 012
 # Faça um algoritmo que leia o preço de um produto e mostre seu novo preso, com 5% de desconto.
 
 print(f"{'DESAFIO 012':=^20}")

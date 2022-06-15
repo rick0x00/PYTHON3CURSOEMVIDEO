@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 09
+# DESAFIO 025
 # Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
 N_desafio = "025"

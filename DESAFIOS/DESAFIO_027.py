@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 09
+# DESAFIO 027
 # Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro a o último nome separadamente.
 # Ex: Ana Maria de Souza 
 # primeiro = Ana 

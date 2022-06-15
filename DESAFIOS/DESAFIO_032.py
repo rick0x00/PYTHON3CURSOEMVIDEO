@@ -1,4 +1,5 @@
-# desafio 032 
+# Considerando os Conhecimentos da Aula 10
+# Desafio 032 
 # Faça um programa que laia um ano qualquer e mostre se ale é BISSEXTO.
 
 N_desafio = "032"

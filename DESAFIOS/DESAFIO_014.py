@@ -1,3 +1,5 @@
+# Considerando os Conhecimentos da Aula 07
+# DESAFIO 014
 # Escrava um programa que converta uma temperatura digitada em °C e converta para °F.
 
 print(f"{'DESAFIO 014':=^25} \n"+"Conversor de Temperaturas")
