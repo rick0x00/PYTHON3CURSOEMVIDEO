@@ -123,7 +123,7 @@
 [DESAFIO 036 - Aprovando Empréstimo](/DESAFIOS/DESAFIO_036.py)
 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
-[DESAFIO 037 - ](/DESAFIOS/DESAFIO_037.py)
+[DESAFIO 037 - Conversor de Bases Numéricas](/DESAFIOS/DESAFIO_037.py)
 - Escrava um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
 	- 1 para binário 
 	- 2 para octal
