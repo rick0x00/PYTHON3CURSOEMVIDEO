@@ -6,8 +6,6 @@
 # style: 0 none, 1 bold, 4 underline, 7 negative
 # text: 30 preto, 31 vermelho, 32 verde, 33 amarelo, 34 azul, 35 magenta, 36 ciano, 37 cinza, 97 branco
 # back: 40 preto, 41 vermelho, 42 verde, 43 amarelo, 44 azul, 45 magenta, 46 ciano, 47 cinza, 107 branco
-from turtle import delay
-
 
 print("\033[1;31;43m Olá,mundo \033[m")
 # print(f'{"\033[7;31;43m"}Olá,mundo{"\033[m"}') ERROR 
