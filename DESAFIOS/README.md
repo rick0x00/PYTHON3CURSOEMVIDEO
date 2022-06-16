@@ -1,5 +1,7 @@
 # [DESAFIOS/EXERCÍCIOS](/DESAFIOS/README.md)
-
+---
+### MUNDO 1
+---
 [DESAFIO 001 - Deixando Tudo Pronto](/DESAFIOS/DESAFIO_001.py)
 - Crie um script Python que laia o nome de uma pessoa a mostra uma mensagem da boas-vindas de acordo com o valor digitado.
 
@@ -114,5 +116,9 @@
 
 [DESAFIO 035 - Analisando Triângulo v1.0](/DESAFIOS/DESAFIO_035.py) 
 - Desenvolva um programa que leia o comprimento de três ratas a diga ao usuário se elas podem ou não formar um triângulo.
+
+---
+### MUNDO 2
+---
 
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)

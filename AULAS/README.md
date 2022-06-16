@@ -1,5 +1,8 @@
 
 # [AULAS/FASES](/AULAS/README.md)
+---
+### MUNDO 1
+---
 
 [AULA 02 - Para que serve o Python](/AULAS/AULA_02.py)
 
@@ -18,5 +21,9 @@
 [AULA 10 - Condições](/AULAS/AULA_10.py)
 
 [AULA 11 - Cores no Terminal](/AULAS/AULA_11.py)
+
+---
+### MUNDO 2
+---
 
 [AULA 00 - ](/AULAS/AULA_00.py)
