@@ -26,4 +26,6 @@
 ### MUNDO 2
 ---
 
+[AULA 12 - Condições Aninhadas](/AULAS/AULA_12.py)
+
 [AULA 00 - ](/AULAS/AULA_00.py)
