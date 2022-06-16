@@ -12,7 +12,6 @@
 [DESAFIO 004 - Dissecando uma Variável](/DESAFIOS/DESAFIO_004.py)
 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-
 [DESAFIO 005 - Predecessor e Sucessor](/DESAFIOS/DESAFIO_005.py)
 - Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
