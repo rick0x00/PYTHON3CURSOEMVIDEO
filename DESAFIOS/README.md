@@ -120,7 +120,7 @@
 ---
 ### MUNDO 2
 ---
-[DESAFIO 036 - ](/DESAFIOS/DESAFIO_036.py)
+[DESAFIO 036 - Aprovando Empréstimo](/DESAFIOS/DESAFIO_036.py)
 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
 [DESAFIO 037 - ](/DESAFIOS/DESAFIO_037.py)

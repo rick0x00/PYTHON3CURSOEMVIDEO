@@ -18,7 +18,7 @@ print('Tenha um bom dia {}!'.format(nome))
 
 # Considerando os Conhecimentos da Aula 12
 
-# DESAFIO 036 - 
+# DESAFIO 036 - Aprovando Empréstimo
 # Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.
 # Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
