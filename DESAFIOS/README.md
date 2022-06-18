@@ -129,7 +129,7 @@
 	- 2 para octal
 	- 3 para hexadecimal
 
-[DESAFIO 038 - ](/DESAFIOS/DESAFIO_038.py)
+[DESAFIO 038 - Comparando números](/DESAFIOS/DESAFIO_038.py)
 - Escrava um programa que leia dois números inteiros & compare-OS, mostrando na tela uma mensagem:
 	- O primeiro valor é maior
 	- O segundo valor é maior

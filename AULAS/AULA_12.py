@@ -28,7 +28,7 @@ print('Tenha um bom dia {}!'.format(nome))
 # -2 para octal
 # -3 para hexadecimal
 
-# DESAFIO 038 - 
+# DESAFIO 038 - Comparando números
 # Escrava um programa que leia dois números inteiros & compare-OS, mostrando na tela uma mensagem:
 # - O primeiro valor é maior
 # - O segundo valor é maior
