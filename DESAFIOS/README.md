@@ -148,7 +148,7 @@
 	- Média antre 5.0 e 6.4: RECUPERAÇÃO
 	- Média 7.0 ou superior: APROVADO
 
-[DESAFIO 041 - ](/DESAFIOS/DESAFIO_041.py)
+[DESAFIO 041 - Classificando Atletas](/DESAFIOS/DESAFIO_041.py)
 - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 	- Até 9 anos: MIRIM
 	- Até 14 anos: INFANTIL
