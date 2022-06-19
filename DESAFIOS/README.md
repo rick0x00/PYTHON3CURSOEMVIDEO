@@ -162,7 +162,7 @@
 	- Isósceles: dois lados iguais.
 	- Escaleno: todos os lados diferentes.
 
-[DESAFIO 043 - ](/DESAFIOS/DESAFIO_043.py)
+[DESAFIO 043 - Índice de Massa Corporal](/DESAFIOS/DESAFIO_043.py)
 - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabala abaixo:
 	- Abaixo de 18.5: Abaixo do Peso
 	- Entre 18.5 e 25: Peso ideal

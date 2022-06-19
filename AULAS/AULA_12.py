@@ -61,7 +61,7 @@ print('Tenha um bom dia {}!'.format(nome))
 # - Isósceles: dois lados iguais.
 # - Escaleno: todos os lados diferentes.
 
-# DESAFIO 043 -
+# DESAFIO 043 - Índice de Massa Corporal
 # Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabala abaixo:
 # - Abaixo de 18.5: Abaixo do Peso
 # - Entre 18.5 e 25: Peso ideal
