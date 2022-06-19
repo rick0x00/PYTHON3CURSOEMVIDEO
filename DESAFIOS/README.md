@@ -156,10 +156,10 @@
 	- Até 20 anos: SENIOR
 	- Acima: MASTER
 
-[DESAFIO 042 - ](/DESAFIOS/DESAFIO_042.py)
+[DESAFIO 042 - Analisando Triângulos v2.0](/DESAFIOS/DESAFIO_042.py)
 - Refaça o DESAFIO 035 dos triângulos. acrescentando o recurso de mostrar que tipo de triângulo será formado:
 	- Equilátero: todos os lados iguais.
-	- Isosceles: dois lados iguais.
+	- Isósceles: dois lados iguais.
 	- Escaleno: todos os lados diferentes.
 
 [DESAFIO 043 - ](/DESAFIOS/DESAFIO_043.py)

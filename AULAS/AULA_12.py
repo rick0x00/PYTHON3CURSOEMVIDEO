@@ -55,10 +55,10 @@ print('Tenha um bom dia {}!'.format(nome))
 # -Até 20 anos: SENIOR
 # -Acima: MASTER
 
-# DESAFIO 042 - 
+# DESAFIO 042 - Analisando Triângulos v2.0
 # Refaça o DESAFIO 035 dos triângulos. acrescentando o recurso de mostrar que tipo de triângulo será formado:
 # - Equilátero: todos os lados iguais.
-# - Isosceles: dois lados iguais.
+# - Isósceles: dois lados iguais.
 # - Escaleno: todos os lados diferentes.
 
 # DESAFIO 043 -
