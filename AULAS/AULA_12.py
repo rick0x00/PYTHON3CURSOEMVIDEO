@@ -34,7 +34,7 @@ print('Tenha um bom dia {}!'.format(nome))
 # - O segundo valor é maior
 # - Não existe valor maior, os dois SÃO iguais
 
-# DESAFIO 039 - 
+# DESAFIO 039 - Alistamento Militar
 # Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
 # - Se ele ainda vai se alistar ao serviço Militar.
 # - Se é a hora de se alistar.

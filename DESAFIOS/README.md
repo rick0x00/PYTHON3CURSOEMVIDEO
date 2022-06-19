@@ -135,8 +135,8 @@
 	- O segundo valor é maior
 	- Não existe valor maior, os dois SÃO iguais
 
-[DESAFIO 039 - ](/DESAFIOS/DESAFIO_039.py)
-- Faça um programa que leia o ano de nascimento de um jovem & informe, de acordo com sua idade:
+[DESAFIO 039 - Alistamento Militar](/DESAFIOS/DESAFIO_039.py)
+- Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
 	- Se ele ainda vai se alistar ao serviço Militar.
 	- Se é a hora de se alistar.
 	- Se já passou do tempo do alistamento
