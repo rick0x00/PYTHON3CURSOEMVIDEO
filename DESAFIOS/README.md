@@ -130,7 +130,7 @@
 	- 3 para hexadecimal
 
 [DESAFIO 038 - Comparando números](/DESAFIOS/DESAFIO_038.py)
-- Escrava um programa que leia dois números inteiros & compare-OS, mostrando na tela uma mensagem:
+- Escrava um programa que leia dois números inteiros e compare-OS, mostrando na tela uma mensagem:
 	- O primeiro valor é maior
 	- O segundo valor é maior
 	- Não existe valor maior, os dois SÃO iguais

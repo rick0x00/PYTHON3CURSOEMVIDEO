@@ -35,7 +35,7 @@ print('Tenha um bom dia {}!'.format(nome))
 # - Não existe valor maior, os dois SÃO iguais
 
 # DESAFIO 039 - 
-# Faça um programa que leia o ano de nascimento de um jovem & informe, de acordo com sua idade:
+# Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
 # - Se ele ainda vai se alistar ao serviço Militar.
 # - Se é a hora de se alistar.
 # - Se já passou do tempo do alistamento.
