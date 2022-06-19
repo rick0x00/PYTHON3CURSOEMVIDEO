@@ -76,5 +76,5 @@ print('Tenha um bom dia {}!'.format(nome))
 # - em até 2x no cartão: preço Normal
 # - 3x ou mais no cartão: 20% de juros
 
-# DESAFIO 045 -
+# DESAFIO 045 - GAME: Pedra Papel e Tesoura
 # Crie um programa que faça o computador jogar Jokenpô com você.

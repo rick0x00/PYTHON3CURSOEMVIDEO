@@ -177,7 +177,7 @@
 	- em até 2x no cartão: preço Normal
 	- 3x ou mais no cartão: 20% de juros
 
-[DESAFIO 045 - ](/DESAFIOS/DESAFIO_045.py)
+[DESAFIO 045 - GAME: Pedra Papel e Tesoura](/DESAFIOS/DESAFIO_045.py)
 -  Crie um programa que faça o computador jogar Jokenpô com você.
 
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
