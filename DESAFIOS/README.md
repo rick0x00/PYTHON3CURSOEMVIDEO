@@ -180,4 +180,7 @@
 [DESAFIO 045 - GAME: Pedra Papel e Tesoura](/DESAFIOS/DESAFIO_045.py)
 -  Crie um programa que faça o computador jogar Jokenpô com você.
 
+[DESAFIO 046 - Contagem regressiva](/DESAFIOS/DESAFIO_046.py)
+- Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificio, indo de 10 até 0. com uma pausa de 1 segundo entre eles.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
