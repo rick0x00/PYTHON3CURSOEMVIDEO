@@ -28,4 +28,6 @@
 
 [AULA 12 - Condições Aninhadas](/AULAS/AULA_12.py)
 
+[AULA 13 - LAÇOS DE REPETIÇÃO - Estrutura de repetição for](/AULAS/AULA_13.py)
+
 [AULA 00 - ](/AULAS/AULA_00.py)
