@@ -33,8 +33,8 @@ print("FIM")
 # DESAFIO 047 - Contagem de pares
 # Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
-# DESAFIO 048 -
-# Faça um programa que calcule a soma entre todos os números impares que SÃO múltiplos de três c que se encontram no intervalo de 1 até 500.
+# DESAFIO 048 - Soma ímpares múltiplos de três
+# Faça um programa que calcule a soma entre todos os números impares que SÃO múltiplos de três e que se encontram no intervalo de 1 até 500.
 
 # DESAFIO 049 -
 # Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.

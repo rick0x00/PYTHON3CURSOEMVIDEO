@@ -186,4 +186,7 @@
 [DESAFIO 047 - Contagem de pares](/DESAFIOS/DESAFIO_047.py)
 - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
+[DESAFIO 048 - Soma ímpares múltiplos de três](/DESAFIOS/DESAFIO_048.py)
+- Faça um programa que calcule a soma entre todos os números impares que SÃO múltiplos de três e que se encontram no intervalo de 1 até 500.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
