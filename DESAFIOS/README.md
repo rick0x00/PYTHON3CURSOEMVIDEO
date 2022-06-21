@@ -192,4 +192,6 @@
 [DESAFIO 049 - Tabuada v.2.0](/DESAFIOS/DESAFIO_049.py)
 - Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
+[DESAFIO 050 - Soma dos pares](/DESAFIOS/DESAFIO_050.py)
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)

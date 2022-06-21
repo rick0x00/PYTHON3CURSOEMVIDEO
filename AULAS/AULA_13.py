@@ -40,7 +40,7 @@ print("FIM")
 # DESAFIO 049 - Tabuada v.2.0
 # Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
-# DESAFIO 050 -
+# DESAFIO 050 - Soma dos pares
 # Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidera-o.
 
 # DESAFIO 051 -
