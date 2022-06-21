@@ -49,7 +49,7 @@ print("FIM")
 # DESAFIO 052 - Números primos
 # Faça um programa que leia um número inteiro a diga se ele é ou não um número primo.
 
-# DESAFIO 053 -
+# DESAFIO 053 - Detector de Palíndromo
 # Crie um programa que leia uma frase qualquer a diga se ela é um palíndromo, desconsiderando os aspaços.
 
 # DESAFIO 054 -

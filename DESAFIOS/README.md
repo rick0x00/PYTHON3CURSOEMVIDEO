@@ -201,4 +201,8 @@
 [DESAFIO 052 - Números primos](/DESAFIOS/DESAFIO_052.py)
 - Faça um programa que leia um número inteiro a diga se ele é ou não um número primo.
 
+[DESAFIO 053 - Detector de Palíndromo](/DESAFIOS/DESAFIO_053.py)
+- Crie um programa que leia uma frase qualquer a diga se ela é um palíndromo, desconsiderando os aspaços.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
+
