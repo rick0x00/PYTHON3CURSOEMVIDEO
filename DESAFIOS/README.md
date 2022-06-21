@@ -189,4 +189,7 @@
 [DESAFIO 048 - Soma ímpares múltiplos de três](/DESAFIOS/DESAFIO_048.py)
 - Faça um programa que calcule a soma entre todos os números impares que SÃO múltiplos de três e que se encontram no intervalo de 1 até 500.
 
+[DESAFIO 049 - Tabuada v.2.0](/DESAFIOS/DESAFIO_049.py)
+- Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)

@@ -25,6 +25,7 @@ print("FIM")
 
 # "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 046, 047, 048, 049, 050, 051, 052, 053, 054, 055, 056"
 
+
 # Considerando os Conhecimentos da Aula 13
 
 # DESAFIO 046 - Contagem regressiva
@@ -36,7 +37,7 @@ print("FIM")
 # DESAFIO 048 - Soma ímpares múltiplos de três
 # Faça um programa que calcule a soma entre todos os números impares que SÃO múltiplos de três e que se encontram no intervalo de 1 até 500.
 
-# DESAFIO 049 -
+# DESAFIO 049 - Tabuada v.2.0
 # Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
 # DESAFIO 050 -
