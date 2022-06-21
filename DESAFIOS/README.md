@@ -198,4 +198,7 @@
 [DESAFIO 051 - Progressão Aritmética](/DESAFIOS/DESAFIO_051.py)
 - Desenvolva um programa que leia o primeiro termo & a razão de uma PA. No final, mostre os 10 primeiros termos dassa progressão.
 
+[DESAFIO 052 - Números primos](/DESAFIOS/DESAFIO_052.py)
+- Faça um programa que leia um número inteiro a diga se ele é ou não um número primo.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)

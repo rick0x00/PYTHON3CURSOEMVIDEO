@@ -16,7 +16,7 @@ print('-' * int(len(msg_desafio)))
 pt = int(input("Informe o Primeiro Temo: "))
 rz = int(input("Informe a Razão: "))
 
-for c in range(pt, pt + (10 - 1) * rz, rz) :
+for c in range(pt, 10 * rz, rz) :
     print(f"{c}", end=" → ")
 
 print("FIM!")

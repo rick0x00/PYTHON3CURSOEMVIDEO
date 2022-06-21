@@ -46,7 +46,7 @@ print("FIM")
 # DESAFIO 051 - Progressão Aritmética
 # Desenvolva um programa que leia o primeiro termo & a razão de uma PA. No final, mostre os 10 primeiros termos dassa progressão.
 
-# DESAFIO 052 - 
+# DESAFIO 052 - Números primos
 # Faça um programa que leia um número inteiro a diga se ele é ou não um número primo.
 
 # DESAFIO 053 -
