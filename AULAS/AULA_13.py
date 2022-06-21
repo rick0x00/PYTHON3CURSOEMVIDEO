@@ -43,10 +43,10 @@ print("FIM")
 # DESAFIO 050 - Soma dos pares
 # Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidera-o.
 
-# DESAFIO 051 -
+# DESAFIO 051 - Progressão Aritmética
 # Desenvolva um programa que leia o primeiro termo & a razão de uma PA. No final, mostre os 10 primeiros termos dassa progressão.
 
-# DESAFIO 052 -
+# DESAFIO 052 - 
 # Faça um programa que leia um número inteiro a diga se ele é ou não um número primo.
 
 # DESAFIO 053 -
