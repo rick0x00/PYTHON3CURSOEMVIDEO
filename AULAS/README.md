@@ -30,4 +30,6 @@
 
 [AULA 13 - LAÇOS DE REPETIÇÃO - Estrutura de repetição for](/AULAS/AULA_13.py)
 
+[AULA 14 - LAÇOS DE REPETIÇÃO - Estrutura de repetição While](/AULAS/AULAS_14.py)
+
 [AULA 00 - ](/AULAS/AULA_00.py)
