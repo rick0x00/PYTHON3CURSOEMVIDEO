@@ -13,8 +13,7 @@ for c in range (0 , 200):
     print(c)
 
 
-# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: "
-
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067"
 # Considerando os Conhecimentos da Aula 14
 
 # DESAFIO 057 - Validação de Dados
