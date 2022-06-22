@@ -58,7 +58,7 @@ print("FIM")
 # DESAFIO 055 - Maior e menor da sequência
 # Faça um programa que leia o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lidos.
 
-# DESAFIO 056 -
+# DESAFIO 056 - Analisador completo
 # Desenvolva um programa que leia o noma, idade e sexo de 4 pessoas. No final do programa, mostre: 
 # - A média da idade do grupo.
 # - Qual é o nome do homem mais velho. 

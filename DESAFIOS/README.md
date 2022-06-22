@@ -193,7 +193,7 @@
 - Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
 [DESAFIO 050 - Soma dos pares](/DESAFIOS/DESAFIO_050.py)
- - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidera-o.
+- Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidera-o.
 
 [DESAFIO 051 - Progressão Aritmética](/DESAFIOS/DESAFIO_051.py)
 - Desenvolva um programa que leia o primeiro termo & a razão de uma PA. No final, mostre os 10 primeiros termos dassa progressão.
@@ -209,6 +209,12 @@
 
 [DESAFIO 055 - Maior e menor da sequência](/DESAFIOS/DESAFIO_055.py)
 - Faça um programa que leia o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lidos.
+
+[DESAFIO 056 - Analisador completo](/DESAFIOS/DESAFIO_056.py)
+- Desenvolva um programa que leia o noma, idade e sexo de 4 pessoas. No final do programa, mostre: 
+	- A média da idade do grupo.
+	- Qual é o nome do homem mais velho. 
+	- Quantas mulheres tem menos de 20 anos.
 
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
