@@ -52,10 +52,10 @@ print("FIM")
 # DESAFIO 053 - Detector de Palíndromo
 # Crie um programa que leia uma frase qualquer a diga se ela é um palíndromo, desconsiderando os aspaços.
 
-# DESAFIO 054 -
+# DESAFIO 054 - Grupo da Maioridade
 # Crie um programa que leia o ano da nascimento de sete pessoas. No final, mostra quantas pessoas ainda não atingiram a maioridade < quantas já sÃO maiores.
 
-# DESAFIO 055 -
+# DESAFIO 055 - Maior e menor da sequência
 # Faça um programa que leia o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lidos.
 
 # DESAFIO 056 -

@@ -204,5 +204,11 @@
 [DESAFIO 053 - Detector de Palíndromo](/DESAFIOS/DESAFIO_053.py)
 - Crie um programa que leia uma frase qualquer a diga se ela é um palíndromo, desconsiderando os aspaços.
 
+[DESAFIO 054 - Grupo da Maioridade](/DESAFIOS/DESAFIO_054.py)
+- Crie um programa que leia o ano da nascimento de sete pessoas. No final, mostra quantas pessoas ainda não atingiram a maioridade < quantas já sÃO maiores.
+
+[DESAFIO 055 - Maior e menor da sequência](/DESAFIOS/DESAFIO_055.py)
+- Faça um programa que leia o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lidos.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
