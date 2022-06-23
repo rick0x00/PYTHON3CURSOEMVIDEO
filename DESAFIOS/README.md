@@ -219,5 +219,8 @@
 [DESAFIO 057 - Validação de Dados](/DESAFIOS/DESAFIO_057.py)
 - faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 
+[DESAFIO 058 - Jogo da Adivinhação v2.0](/DESAFIOS/DESAFIO_058.py)
+- Exercício Python 058: Melhore o jogo do DESAFIO 028 onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
