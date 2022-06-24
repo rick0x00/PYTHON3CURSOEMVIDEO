@@ -7,3 +7,21 @@ nome_desafio = "Jogo da Adivinhação v2.0"
 print(f'{" DESAFIO"f" {N_desafio} ":=^{len(nome_desafio)}}')
 print(nome_desafio)
 print('=' * len(nome_desafio))
+
+
+
+msg_pgr = str("vou pensar em um número entre 0 e 10. Tente adivinhar...")
+print('-+' * int(len(msg_pgr) / 2))
+print(msg_pgr)
+print('-+' * int(len(msg_pgr) / 2))
+
+from random import randint
+
+number_random = int(randint(0, 10)) 
+
+number_user = int(input("Em que número eu pensei? "))
+
+if number_user == number_random:
+    print("parabéns, você acertou!")
+else:
+    print("Não foi dessa vez, tende novamente!")
