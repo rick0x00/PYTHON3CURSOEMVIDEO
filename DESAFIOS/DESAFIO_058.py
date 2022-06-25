@@ -19,9 +19,18 @@ from random import randint
 
 number_random = int(randint(0, 10)) 
 
-number_user = int(input("Em que número eu pensei? "))
+number_user = int(0)
+
+start = int()
+count = int()
+
+while number_user != number_random or start == 1:
+    start = 0
+    count += 1
+    number_user = int(input("Em que número eu pensei? "))
+    if number_user != number_random :
+        print("Não foi dessa vez, tende novamente!")
 
 if number_user == number_random:
     print("parabéns, você acertou!")
-else:
-    print("Não foi dessa vez, tende novamente!")
+    print(f"Foram necessárias {count} tentativas!")
