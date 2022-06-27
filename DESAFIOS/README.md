@@ -237,5 +237,7 @@
 [DESAFIO 061 - Progressão Aritmética v2.0](/DESAFIOS/DESAFIO_061.py)
 - Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 
+[DESAFIO 062 - Super Progressão Aritmética v3.0](/DESAFIOS/DESAFIO_062.py)
+- Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
