@@ -32,7 +32,7 @@ for c in range (0 , 200):
 # Seu programa deverá realizar a operação solicitada em cada caso.
 
 # DESAFIO 060 - Cálculo do Fatorial
-# Exercício Python 060: Faça um programa que leia um número qualquer e mostre o seu fatorial.
+# Faça um programa que leia um número qualquer e mostre o seu fatorial.
 
 # DESAFIO 061 - Progressão Aritmética v2.0
 # Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.

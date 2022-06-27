@@ -231,5 +231,8 @@
 	- [ 5 ] sair do programa
 - Seu programa deverá realizar a operação solicitada em cada caso.
 
+[DESAFIO 060 - Cálculo do Fatorial](/DESAFIOS/DESAFIO_060.py)
+- Faça um programa que leia um número qualquer e mostre o seu fatorial.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
