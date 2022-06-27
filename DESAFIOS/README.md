@@ -234,5 +234,8 @@
 [DESAFIO 060 - Cálculo do Fatorial](/DESAFIOS/DESAFIO_060.py)
 - Faça um programa que leia um número qualquer e mostre o seu fatorial.
 
+[DESAFIO 061 - Progressão Aritmética v2.0](/DESAFIOS/DESAFIO_061.py)
+- Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
