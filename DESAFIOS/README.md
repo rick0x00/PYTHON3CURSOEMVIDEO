@@ -243,5 +243,8 @@
 [DESAFIO 063 - Sequência de Fibonacci v1.0](/DESAFIOS/DESAFIO_063.py)
 - Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci.
 
+[DESAFIO 064 - Tratando vários valores v1.0](/DESAFIOS/DESAFIO_064.py)
+- Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
