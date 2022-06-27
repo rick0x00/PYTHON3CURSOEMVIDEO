@@ -239,5 +239,9 @@
 
 [DESAFIO 062 - Super Progressão Aritmética v3.0](/DESAFIOS/DESAFIO_062.py)
 - Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
+
+[DESAFIO 063 - Sequência de Fibonacci v1.0](/DESAFIOS/DESAFIO_063.py)
+- Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
