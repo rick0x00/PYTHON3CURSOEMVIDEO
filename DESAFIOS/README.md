@@ -249,5 +249,8 @@
 [DESAFIO 065 - Maior e Menor valores](/DESAFIOS/DESAFIO_065.py)
 - Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
 
+[DESAFIO 066 - Vários números com flag](/DESAFIOS/DESAFIO_066.py)
+- Crie um programa que leia números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre elas (desconsiderando o flag).
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
