@@ -8,10 +8,11 @@ print(f'{" DESAFIO"f" {N_desafio} ":=^{len(nome_desafio)}}')
 print(nome_desafio)
 print('=' * len(nome_desafio))
 
-sexo = str("")
-s = int('0')
-while sexo == 'M' or sexo == 'F' or s == 0:
-    s = 1
-    sexo = str(input("Informe o Sexo: "))
-    if sexo != 'M' and sexo != 'F':
-        print("Valor invalido")
+sexo = str()
+s = int()
+sexo = str(input("Informe o Sexo: ")).strip().upper()[0]
+while sexo not in 'MmFf':
+    if sexo.upper() == "M" or sexo.upper() == "F" :
+        print(f"Sexo {sexo.upper()} Registrado com Sucesso")
+    if sexo.upper() != "M" and sexo.upper() != "F" :
+        sexo = str(input("Dados inválidos. Informe o Sexo: ")).strip().upper()[0]
