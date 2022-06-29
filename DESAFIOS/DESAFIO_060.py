@@ -21,3 +21,6 @@ while DE > 0 :
     DE = DE - 1
 
 print(f"= {fatorial}")    
+
+#from math import factorial
+#print(f"O fatorial de {N} é {factorial(N)}")
