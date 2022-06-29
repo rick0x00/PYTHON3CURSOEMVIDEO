@@ -15,8 +15,9 @@ print('-' * int(len(msg_desafio)))
 
 pt = int(input("Informe o Primeiro Temo: "))
 rz = int(input("Informe a Razão: "))
-
-while pt < (10 * rz) :
+cont = 1
+while cont <= 10 :
     print(f"{pt}", end=" → ")
-    pt = pt + rz
+    pt += rz
+    cont += 1
 print("FIM!")
