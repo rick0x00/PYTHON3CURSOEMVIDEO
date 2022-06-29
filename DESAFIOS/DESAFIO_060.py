@@ -14,11 +14,11 @@ DE = N
 
 print(f"Calculando {N}! ", end="= ")
 while DE > 0 :
-    fatorial = fatorial * DE
+    fatorial *= DE
     print(f"{DE}", end=" ")
     if DE > 1 :
         print("x", end=" ")
-    DE = DE - 1
+    DE -= 1
 
 print(f"= {fatorial}")    
 
