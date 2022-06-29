@@ -16,7 +16,7 @@ print('-' * int(len(msg_desafio)))
 
 termos = int(10)
 count = int(1)
-pt = int(input("Informe o Primeiro Temo: "))
+pt = int(input("Informe o Primeiro Termo: "))
 rz = int(input("Informe a Razão: "))
 loopon = int(1)
 while loopon == 1 :
