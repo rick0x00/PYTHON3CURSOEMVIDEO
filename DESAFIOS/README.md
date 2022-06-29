@@ -255,5 +255,8 @@
 [DESAFIO 067 - Tabuada v3.0](/DESAFIOS/DESAFIO_067.py)
 - Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo. 
 
+[DESAFIO 068 - Jogo do Par ou Ímpar](/DESAFIOS/DESAFIO_068.py)
+- Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
