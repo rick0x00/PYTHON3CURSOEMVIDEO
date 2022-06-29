@@ -15,15 +15,17 @@ print(msg_desafio)
 print('-' * int(len(msg_desafio)))
 
 termos = int(10)
+count = int(1)
 pt = int(input("Informe o Primeiro Temo: "))
 rz = int(input("Informe a Razão: "))
 loopon = int(1)
 while loopon == 1 :
     loopon = 0
-    while pt < (termos * rz) :
+    while count <= termos :
         print(f"{pt}", end=" → ")
-        pt = pt + rz  
-
+        pt += rz 
+        count += 1 
+    print("PAUSA")
     opc = int(input("Quer Mostrar mais quantos Termos? "))
     if opc == 0 :
         print("FIM!")
