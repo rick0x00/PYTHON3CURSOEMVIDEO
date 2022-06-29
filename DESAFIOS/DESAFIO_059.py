@@ -15,11 +15,13 @@ print(nome_desafio)
 print('=' * len(nome_desafio))
 
 loopon = 1
+newnum = 1
 
 while loopon == 1 :
-    loopon = 0
-    n1 = float(input("Informe o primeiro valor: "))
-    n2 = float(input("Informe o Segmento valor: "))
+    if newnum == 1 :
+        n1 = float(input("Informe o primeiro valor: "))
+        n2 = float(input("Informe o Segmento valor: "))
+        newnum = 0
 
     print(""" Qual Operação deseja Executar
     [ 1 ] somar
@@ -33,11 +35,9 @@ while loopon == 1 :
     if opc == 1 :
         print("opção: SOMA")
         print(f"A SOMA entre {n1} e {n2} é {n1 + n2}")
-        exit();
     elif opc == 2 :
         print("opção: MULTIPLICAÇÃO")
         print(f"A MULTIPLICAÇÃO entre {n1} e {n2} é {n1 * n2}")
-        exit();
     elif opc == 3 :
         print("opção: MAIOR")
         if n1 > n2 :
@@ -47,10 +47,10 @@ while loopon == 1 :
         if n1 == n2 :
             print ("OS NÚMEROS SÃO IGUAIS")
         else: print(f"O MAIOR NUMERO entre {n1} e {n2} é {maior}")
-        exit();
     elif opc == 4 :
         print("opção: NOVOS NÚMEROS")
         loopon = 1
+        newnum = 1
     elif opc == 5 :
         print("opção: SAIR DO PROGRAMA")
         exit();

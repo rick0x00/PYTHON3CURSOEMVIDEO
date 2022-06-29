@@ -15,6 +15,7 @@ print('-+' * int(len(msg_pgr) / 2))
 print(msg_pgr)
 print('-+' * int(len(msg_pgr) / 2))
 
+from ast import Num
 from random import randint
 
 number_random = int(randint(0, 10)) 
@@ -30,7 +31,11 @@ while number_user != number_random or start == 1:
     number_user = int(input("Em que número eu pensei? "))
     if number_user != number_random :
         print("Não foi dessa vez, tende novamente!")
+        if number_random < number_user :
+            print("Menos... tente mais uma vez")
+        elif number_random > number_user :
+            print("Mais... tente novamente")
 
-if number_user == number_random:
+if number_user == number_random :
     print("parabéns, você acertou!")
     print(f"Foram necessárias {count} tentativas!")
