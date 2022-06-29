@@ -8,13 +8,16 @@ print(f'{" DESAFIO"f" {N_desafio} ":=^{len(nome_desafio)}}')
 print(nome_desafio)
 print('=' * len(nome_desafio))
 
-N = int(input("Indorme um Número: "))
+N = int(input("Informe um Número: "))
 fatorial = int(1)
 DE = N
 
-
+print(f"Calculando {N}! ", end="= ")
 while DE > 0 :
     fatorial = fatorial * DE
+    print(f"{DE}", end=" ")
+    if DE > 1 :
+        print("x", end=" ")
     DE = DE - 1
 
-print(f"o fatorial de {N} é {fatorial}")    
+print(f"= {fatorial}")    
