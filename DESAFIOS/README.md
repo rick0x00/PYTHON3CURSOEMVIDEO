@@ -264,5 +264,11 @@
 	- B) quantos homens foram cadastrados.
 	- C) quantas mulheres tem menos de 20 anos. 
 
+[DESAFIO 070 - Estatísticas em produtos](/DESAFIOS/DESAFIO_070.py)
+- Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:
+	- A) qual é o total gasto na compra.
+	- B) quantos produtos custam mais de R$1000.
+	- C) qual é o nome do produto mais barato. 
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
