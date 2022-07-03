@@ -13,6 +13,13 @@
 
 [YOUTUBE](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
+
+### MUNDO 3 : Estruturas Compostas
+
+[SITE OFICIAL](https://www.cursoemvideo.com/curso/python-3-mundo-3)
+
+[YOUTUBE](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+
 ---
 ### [AULAS/FASES](/AULAS/README.md)
 ---

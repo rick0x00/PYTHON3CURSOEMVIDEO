@@ -1,6 +1,6 @@
 # [DESAFIOS/EXERCÍCIOS](/DESAFIOS/README.md)
 ---
-### MUNDO 1
+### MUNDO 1 : FUNDAMENTOS
 ---
 [DESAFIO 001 - Deixando Tudo Pronto](/DESAFIOS/DESAFIO_001.py)
 - Crie um script Python que laia o nome de uma pessoa a mostra uma mensagem da boas-vindas de acordo com o valor digitado.
@@ -118,7 +118,7 @@
 - Desenvolva um programa que leia o comprimento de três ratas a diga ao usuário se elas podem ou não formar um triângulo.
 
 ---
-### MUNDO 2
+### MUNDO 2 : ESTRUTURAS DE CONTROLE
 ---
 [DESAFIO 036 - Aprovando Empréstimo](/DESAFIOS/DESAFIO_036.py)
 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
@@ -274,5 +274,8 @@
 - Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 - OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
-[DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
+---
+### MUNDO 3 : ESTRUTURAS COMPOSTAS
+---
+[DESAFIO 000 - ](/DESAFIOS/DESAFIO_00.py)
 

@@ -1,7 +1,7 @@
 
 # [AULAS/FASES](/AULAS/README.md)
 ---
-### MUNDO 1
+### MUNDO 1 : FUNDAMENTOS
 ---
 
 [AULA 02 - Para que serve o Python](/AULAS/AULA_02.py)
@@ -23,7 +23,7 @@
 [AULA 11 - Cores no Terminal](/AULAS/AULA_11.py)
 
 ---
-### MUNDO 2
+### MUNDO 2 : ESTRUTURAS DE CONTROLE
 ---
 
 [AULA 12 - Condições Aninhadas](/AULAS/AULA_12.py)
@@ -33,5 +33,11 @@
 [AULA 14 - LAÇOS DE REPETIÇÃO - Estrutura de repetição While](/AULAS/AULA_14.py)
 
 [AULA 15 - LAÇOS DE REPETIÇÃO - Interrompendo repetições while](/AULAS/AULA_15.py)
+
+---
+### MUNDO 3 : ESTRUTURAS COMPOSTAS
+---
+
+[AULA 16 - VARIÁVEIS COMPOSTAS - Tuplas](/AULAS/AULA_16.py)
 
 [AULA 00 - ](/AULAS/AULA_00.py)
