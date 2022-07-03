@@ -290,6 +290,10 @@
 [DESAFIO 074 - Maior e menor valores em Tupla](/DESAFIOS/DESAFIO_074.py)
 - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 
-
+[DESAFIO 075 - Análise de dados em uma Tupla](/DESAFIOS/DESAFIO_075.py)
+- Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+	- A) Quantas vezes apareceu o valor 9.
+	- B) Em que posição foi digitado o primeiro valor 3.
+	- C) Quais foram os números pares.
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
