@@ -277,5 +277,8 @@
 ---
 ### MUNDO 3 : ESTRUTURAS COMPOSTAS
 ---
-[DESAFIO 000 - ](/DESAFIOS/DESAFIO_00.py)
+[DESAFIO 072 - Número por Extenso](/DESAFIOS/DESAFIO_072.py)
+- Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+
+[DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
