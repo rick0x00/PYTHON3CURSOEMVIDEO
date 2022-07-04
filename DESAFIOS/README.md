@@ -299,5 +299,7 @@
 [DESAFIO 076 - Lista de Preços com Tupla](/DESAFIOS/DESAFIO_076.py)
 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
+[DESAFIO 077 - Contando vogais em Tupla](/DESAFIOS/DESAFIO_077.py)
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
