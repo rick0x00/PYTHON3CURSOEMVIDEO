@@ -68,7 +68,7 @@ d[2] = 5
 print(f"Lista A: {c}")
 print(f"Lista B: {d}")
 
-# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS:"
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 078, 079, 080, 081, 082, 083"
 
 # Considerando os Conhecimentos da Aula 17
 
