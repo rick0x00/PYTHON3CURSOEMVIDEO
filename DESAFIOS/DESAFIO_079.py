@@ -34,7 +34,7 @@ while True:
     if opc in 'Nn' :
         break
 
-print(sorted(lista))
+print("Você Digitou os valores ", sorted(lista))
 
 
 
