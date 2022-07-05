@@ -302,7 +302,8 @@
 [DESAFIO 077 - Contando vogais em Tupla](/DESAFIOS/DESAFIO_077.py)
 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 
-[DESAFIO 078 - ](/DESAFIOS/DESAFIO_078.py)
+[DESAFIO 078 - Maior e Menor valores na Lista](/DESAFIOS/DESAFIO_078.py)
+- Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista. 
 
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
