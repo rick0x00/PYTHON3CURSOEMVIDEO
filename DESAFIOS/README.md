@@ -302,5 +302,7 @@
 [DESAFIO 077 - Contando vogais em Tupla](/DESAFIOS/DESAFIO_077.py)
 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 
+[DESAFIO 078 - ](/DESAFIOS/DESAFIO_078.py)
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
