@@ -22,26 +22,19 @@ for c in range(0, 5) :
             print("Valor Duplicado.")
         else :
             print("Valor válido, adicionando na lista...")
-            if c == 0 :
+            if c == 0 or val > lista[-1]:
                 lista.append(val)
+                print("Adicionado no final da lista")
+                break
             else :
-                if val > max(lista) or val < min(lista):
-                    if val > max(lista) :
-                        lista.append(val)
-                        print(f"Valor adicionado na posição [{len(lista)}]")
-                    if val < min(lista) :
-                        lista.insert(0, val)
-                        print(f"Valor Adicionado na posição [0]")
-                    break
-                else :
-                    for pos, count in enumerate(lista) :
-                        if val > count :
-                            lista.insert(pos, val)
-                            print(f"Valor [{val}] adicionado na posição[{pos}]")
-                            break
-                        else :
-                            print("erro de execução")
-            break
+                pos = 0
+                while pos < len(lista) :
+                    if val <= lista[pos] :
+                        lista.insert(pos, val)
+                        print(f"adicionado na posição {pos}")
+                        break
+                    pos += 1
+                break
 
-print(f"{sorted(lista)}")
+print(f"{lista}")
 
