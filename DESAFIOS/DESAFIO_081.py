@@ -37,3 +37,5 @@ lista.sort(reverse=True)
 print(f"A lista em ordem reversa é: {lista}")
 if 5 in lista:
     print("O valor 5 está na lista")
+else :
+    print("O valor 5 não foi encontrado na lista!")
