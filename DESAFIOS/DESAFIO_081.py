@@ -34,6 +34,6 @@ while opc not in 'Nn' :
 
 print("existem", len(lista), "Valores na Lista")
 lista.sort(reverse=True)
-print("A lista em ordem reversa é: ",lista)
+print(f"A lista em ordem reversa é: {lista}")
 if 5 in lista:
     print("O valor 5 está na lista")
