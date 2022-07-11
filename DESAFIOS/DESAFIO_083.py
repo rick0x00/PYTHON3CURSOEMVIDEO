@@ -12,14 +12,26 @@ expression = str()
 abre = fecha = int()
 
 expression = input("Informe uma expressão: ").strip()
-
+pilha = list()
 for count, val in enumerate(expression) :
-    print(val)
     if '(' in val :
         abre = count
+        pilha.append("(")
     if ')' in val :
         fecha = count
+        if len(pilha) > 0 :
+            pilha.pop()
+        else :
+            pilha.append(")")
+            break
 
+# de ua forma
+if len(pilha) == 0 :
+    print("Sua expressão está válida!")
+else :
+    print("sua expressão está errada!")
+
+# de outra forma
 if '(' in expression or ')' in expression :
     if '(' in expression and ')' in expression :
         if abre < fecha :
