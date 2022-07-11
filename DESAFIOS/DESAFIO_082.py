@@ -9,9 +9,9 @@ print(f'{" DESAFIO"f" {N_desafio} ":=^{len(nome_desafio)}}')
 print(nome_desafio)
 print('=' * len(nome_desafio))
 
-lista_all = []
-lista_par = []
-lista_impar = []
+lista_all = list()
+lista_par = list()
+lista_impar = list()
 loopon = 1
 
 while loopon :
