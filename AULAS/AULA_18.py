@@ -53,4 +53,15 @@ for c in range(0, 3) :
     info.append(dado[:])
     dado.clear()
 
+totmai = totmen = int()
+
+for c in info :
+    if c[1] >= 21 :
+        print(f"{c[0]} é maior de idade")
+        totmai += 1
+    else :
+        print(f"{c[0]} é menor de idade")
+        totmen += 1
+
+print(f"temos {totmai} maiores de idade, e temos {totmen} menores de idade")
 print(info)
