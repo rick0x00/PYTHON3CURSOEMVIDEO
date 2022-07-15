@@ -32,7 +32,7 @@ print(pessoas[0][0])
 print(pessoas[0][1])
 
 # outra forma de criar listas compostas
-galera = [['josé', 20], ['henrique', 21], ['barbosa', 22], ['silva', 23]]
+galera = [['pedro', 20], ['henrique', 21], ['maria', 22], ['carlos', 23]]
 
 print(galera)
 print(galera[2])
