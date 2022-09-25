@@ -323,5 +323,11 @@
 [DESAFIO 083 - Validando expressões matemáticas](/DESAFIOS/DESAFIO_083.py)
 - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
+[DESAFIO 084 - Lista composta e análise de dados](/DESAFIOS/DESAFIO_084.py)
+- Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+	- A) Quantas pessoas foram cadastradas.
+	- B) Uma listagem com as pessoas mais pesadas.
+	- C) Uma listagem com as pessoas mais leves.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
