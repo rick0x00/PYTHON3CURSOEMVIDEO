@@ -24,7 +24,7 @@
 "Não foi desenvolvido"
 
 ### MUNDO 5 : Python em outras plataformas
-"Não foi Desenvolvifo"
+"Não foi Desenvolvido"
 ---
 ### [AULAS/FASES](/AULAS/README.md)
 ---
