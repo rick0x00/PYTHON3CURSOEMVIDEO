@@ -428,4 +428,11 @@
 
 - Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
 
+[DESAFIO 087 - Mais sobre Matriz em Python](/DESAFIOS/DESAFIO_087.py)
+
+- Aprimore o desafio anterior, mostrando no final:
+  - A) A soma de todos os valores pares digitados.
+  - B) A soma dos valores da terceira coluna.
+  - C) O maior valor da segunda linha.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
