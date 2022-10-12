@@ -332,5 +332,7 @@
 [DESAFIO 085 - Listas com pares e ímpares](/DESAFIOS/DESAFIO_085.py)
 - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
 
-[DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
+[DESAFIO 086 - Matriz em Python](/DESAFIOS/DESAFIO_086.py)
+- Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
 
+[DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
