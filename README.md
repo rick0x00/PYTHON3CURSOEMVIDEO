@@ -20,6 +20,11 @@
 
 [YOUTUBE](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
+### MUNDO 4 : Orientação a Objetos & Banco de Dados
+"Não foi desenvolvido"
+
+### MUNDO 5 : Python em outras plataformas
+"Não foi Desenvolvifo"
 ---
 ### [AULAS/FASES](/AULAS/README.md)
 ---
