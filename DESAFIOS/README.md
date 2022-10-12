@@ -329,5 +329,8 @@
 	- B) Uma listagem com as pessoas mais pesadas.
 	- C) Uma listagem com as pessoas mais leves.
 
+[DESAFIO 085 - Listas com pares e ímpares](/DESAFIOS/DESAFIO_085.py)
+- Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
+
 [DESAFIO 000 - ](/DESAFIOS/DESAFIO_000.py)
 
