@@ -435,4 +435,8 @@
   - B) A soma dos valores da terceira coluna.
   - C) O maior valor da segunda linha.
 
+[DESAFIO 088 - Palpites para a Mega Sena](/DESAFIOS/DESAFIO_088.py)
+
+- Faça um programa que ajude um jogador da MEGA SENA a criar palpites.O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
