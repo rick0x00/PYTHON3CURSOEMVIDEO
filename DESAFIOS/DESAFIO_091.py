@@ -17,11 +17,18 @@ for i in range(1 , 5):
 print (f"{jogadores}")
 
 print("CLASSIFICAÇÃO")
-for v in sorted(jogadores.values(), reverse=True):
-    position += 1
-    for j, n  in jogadores.items():
-        if v == n :
-            if position == 1 :
-                print (f" VENCEDOR: {j:=^15}")
-            print (f"Posição {position} :", end=" ")
-            print (f"{j} valor {v}")
+ranking = list()
+ranking = sorted(jogadores.items(), key=lambda item: item[1], reverse=True)
+
+print(f"{ranking}")  
+for k, v in enumerate(ranking):
+    print (f"{k+1}º lugar: {v[0]} com {v[1]}")
+
+#for v in sorted(jogadores.values(), reverse=True):
+#    position += 1
+#    for j, n  in jogadores.items():
+#        if v == n :
+#            if position == 1 :
+#                print (f" VENCEDOR: {j:=^15}")
+#            print (f"Posição {position} :", end=" ")
+#            print (f"{j} valor {v}")
