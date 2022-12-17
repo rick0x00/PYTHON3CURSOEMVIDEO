@@ -459,4 +459,12 @@
 
 - Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
 
+[DESAFIO 094 - Unindo dicionários e listas](/DESAFIOS/DESAFIO_094.py)
+
+- crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+  - A) Quantas pessoas foram cadastradas
+  - B) A média de idade
+  - C) Uma lista com as mulheres
+  - D) Uma lista de pessoas com idade acima da média
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
