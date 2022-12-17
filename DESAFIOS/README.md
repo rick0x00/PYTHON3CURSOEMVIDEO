@@ -451,4 +451,8 @@
 
 - Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 
+[DESAFIO 092 - Cadastro de Trabalhador em Python](/DESAFIOS/DESAFIO_092.py)
+
+- Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
