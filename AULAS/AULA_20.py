@@ -64,3 +64,27 @@ contador(1, 2, 4, 7, 9)
 contador(8, 5, 7, 7, 9)
 
 # Podemos perceber que foram criadas tuplas durante o empacotamento, e assim podenmos fazer tudo que aprendemos com tuplas
+
+
+# "COM OS CONHECIMENTOS DESSA AULA, ESTÁ PASSÍVEL DE RESOLUÇÃO OS DESAFIOS: 096, 097, 098, 099, 100"
+
+# Considerando os Conhecimentos da Aula 20
+
+
+# DESAFIO 096 - Função que calcula área
+# Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+
+# DESAFIO 097 - Um print especial
+# Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+
+# DESAFIO 098 - Função de Contador
+# Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. Seu programa tem que realizar três contagens através da função criada:
+#a) de 1 até 10, de 1 em 1
+#b) de 10 até 0, de 2 em 2
+#c) uma contagem personalizada
+
+# DESAFIO 099 - Função que descobre o maior
+# Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+
+# DESAFIO 100 - Funções para sortear e somar
+# Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
