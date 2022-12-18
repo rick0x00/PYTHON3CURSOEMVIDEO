@@ -475,4 +475,8 @@
 
 - Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
+[DESAFIO 097 - Um print especial](/DESAFIOS/DESAFIO_097.py)
+
+- Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
