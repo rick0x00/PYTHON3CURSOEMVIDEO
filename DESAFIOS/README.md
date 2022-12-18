@@ -467,4 +467,8 @@
   - C) Uma lista com as mulheres
   - D) Uma lista de pessoas com idade acima da média
 
+[DESAFIO 095 - Aprimorando os Dicionários](/DESAFIOS/DESAFIO_095.py)
+
+- Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
