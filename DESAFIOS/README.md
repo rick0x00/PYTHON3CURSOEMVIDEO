@@ -471,4 +471,8 @@
 
 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 
+[DESAFIO 096 - Função que calcula área](/DESAFIOS/DESAFIO_096.py)
+
+- Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
