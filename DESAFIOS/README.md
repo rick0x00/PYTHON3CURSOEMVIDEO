@@ -479,4 +479,6 @@
 
 - Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 
+[DESAFIO 098 -](/DESAFIOS/DESAFIO_098.py)
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
