@@ -490,4 +490,8 @@
 
 - Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
+[DESAFIO 100 - Funções para sortear e somar](/DESAFIOS/DESAFIO_100.py)
+
+- Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
