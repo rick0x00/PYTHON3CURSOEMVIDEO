@@ -486,4 +486,8 @@
   - b) de 10 até 0, de 2 em 2
   - c) uma contagem personalizada
 
+[DESAFIO 099 - Função que descobre o maior](/DESAFIOS/DESAFIO_099.py)
+
+- Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
