@@ -506,5 +506,9 @@
 
 - Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
 
-[DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
+[DESAFIO 104 - Validando entrada de dados em Python](/DESAFIOS/DESAFIO_104.py)
 
+- Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante 'a função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico.
+  - Ex: n = leiaInt('Digite um n: ')
+
+[DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
