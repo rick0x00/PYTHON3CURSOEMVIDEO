@@ -511,4 +511,13 @@
 - Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante 'a função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico.
   - Ex: n = leiaInt('Digite um n: ')
 
+[DESAFIO 105 - analisando e gerando Dicionários](/DESAFIOS/DESAFIO_105.py)
+
+- Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+  - Quantidade de notas
+  - A maior nota
+  - A menor nota
+  - A média da turma
+  - A situação (opcional)
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
