@@ -520,4 +520,8 @@
   - A média da turma
   - A situação (opcional)
 
-[DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
+[DESAFIO 106 - Sistema interativo de ajuda em Python](/DESAFIOS/DESAFIO_106.py)
+
+- Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará. Importante: use cores.
+
+[DESAFIO 000 - Sistema interativo de ajuda em Python](/DESAFIOS/DESAFIO_000.py)
