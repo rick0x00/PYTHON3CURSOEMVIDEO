@@ -536,4 +536,8 @@
 
 - Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
 
+[DESAFIO 110 - Reduzindo ainda mais seu programa](/DESAFIOS/DESAFIO_110/DESAFIO_110.py)
+
+- Adicione o módulo moeda.py criado nos desafios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
