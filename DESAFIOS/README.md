@@ -526,4 +526,10 @@
 
 [DESAFIO 107 - Exercitando módulos em Python](/DESAFIOS/DESAFIO_107/DESAFIO_107.py)
 
+- Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
+
+[DESAFIO 108 - Formatando Moedas em Python](/DESAFIOS//DESAFIO_108/DESAFIO_108.py)
+
+- Adapte o código do desafio #107, criando uma função adicional chamada moeda() que consiga mostrar os números como um valor monetário formatado.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
