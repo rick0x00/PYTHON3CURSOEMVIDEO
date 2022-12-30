@@ -552,4 +552,8 @@
 
 - Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
 
+[DESAFIO 114 - Site está acessível?](/DESAFIOS/DESAFIO_114.py)
+
+- Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
+
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
