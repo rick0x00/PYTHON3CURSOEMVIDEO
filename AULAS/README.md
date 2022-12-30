@@ -59,4 +59,6 @@
 
 [AULA 22 -  Módulos e Pacotes](/AULAS/AULA_22.py)
 
+[AULA 23 - Tratamento de Erros e Exceções](/AULAS/AULA_23.py)
+
 [AULA 00 -](/AULAS/AULA_00.py)
