@@ -556,6 +556,12 @@
 
 - Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
 
-[DESAFIO 115A -](/DESAFIOS/DESAFIO_115A/DESAFIO_115A.py)
+[DESAFIO 115A - Criando um menu em Python](/DESAFIOS/DESAFIO_115A/DESAFIO_115A.py)
+
+- Vamos criar um menu em Python, usando modularização.
+
+[DESAFIO 115B - Arquivos com Python](/DESAFIOS/DESAFIO_115B/DESAFIO_115B.py)
+
+- Vamos ver como fazer acesso a arquivos usando o Python.
 
 [DESAFIO 000 -](/DESAFIOS/DESAFIO_000.py)
